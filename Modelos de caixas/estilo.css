@@ -1,0 +1,21 @@
+/* Modelo de caixa */
+
+.conteudo {
+	border: 1px solid red;
+	
+	/*padding-top: 20px;
+	padding-right: 25px;
+	padding-bottom: 15px;
+	padding-left: 20px;*/
+	padding: 20px 25px 15px 20px;
+	
+
+	/*margin-top: 20px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	margin-left: 20px;*/
+	margin: 20px 25px 15px 20px;
+
+	width: 150px;
+
+}
